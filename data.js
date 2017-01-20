@@ -35,6 +35,7 @@ var data  = [
   "Your cooking reminds me of my mother's.",
   "You're tremendous!",
   "You deserve a compliment!",
-  "Hello, good looking."
-  "You're The Best!"
+  "Hello, good looking.",
+  "You're The Best!",
+  "Nice hat... Can I buy it?"
 ];
